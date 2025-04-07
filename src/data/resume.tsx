@@ -4,7 +4,9 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 export const DATA = {
   name: "Bonolo Modikoane",
   initials: "BM",
+  url: "https://dillion.io",
   location: "Johannesburg, South Africa",
+  locationLink: "https://maps.app.goo.gl/jLMajoD97jEBEYAz5",
   description:
     "One last thing—I'm actively seeking a full-time position and am also available for freelance work. If you have a project or opportunity, feel free to reach out and say hello! I promise I don’t bite 😉.",
   summary:
@@ -55,13 +57,13 @@ export const DATA = {
         navbar: true,
       },
       
-      Email: {
+      email: {
         name: "Send Email",
         url: "mailto:bonolojv@gmail.com",
         icon: Icons.email,
         navbar: true,
       },
-      CV: {
+      cv: {
         name: "Download CV",
         url: "/Frontend CV.pdf", 
         icon: Icons.CV,  
