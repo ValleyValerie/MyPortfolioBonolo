@@ -8,7 +8,7 @@ interface Props {
   TechStack: string;
   dates: string;
   features: string;
-  location: string;
+  location?: string;
   image?: string;
   links?: readonly {
     icon: React.ReactNode;
