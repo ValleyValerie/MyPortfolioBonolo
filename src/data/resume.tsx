@@ -88,7 +88,7 @@ export const DATA = {
       location: "Remote",
       title: "Freelancer developer/engineer",
       logoUrl: "/freelancer.jpeg",
-      start: "December 2023",
+      start: "November 2023",
       end: "November 2024",
       description:
         "I built fast, modern websites with Vue.js, Next.js, and TypeScript. I specialize in responsive design (Tailwind CSS), performance optimization, and adding interactive features. My work included redesigning sites, and improving UX/accessibility. I handled everything from HTML/CSS to API integrations and SEO – delivering complete frontend solutions tailored to every client's needs.",
