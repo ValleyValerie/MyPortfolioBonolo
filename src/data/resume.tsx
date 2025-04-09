@@ -4,7 +4,7 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 export const DATA = {
   name: "Bonolo Modikoane",
   initials: "BM",
-  url: "https://my-portfolio-bonolo.vercel.app/",
+  url: "https://www.bonolo.online/",
   location: "Johannesburg, South Africa",
   description:
     "One last thing—I'm actively seeking a full-time position and am also available for freelance work. If you have a project or opportunity, feel free to reach out and say hello! I promise I don’t bite 😉.",
