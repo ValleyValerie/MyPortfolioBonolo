@@ -4,7 +4,7 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 export const DATA = {
   name: "Bonolo Modikoane",
   initials: "BM",
-  url: "https://www.bonolo.online/",
+  url: "bonolojr@outlook.com",
   location: "Johannesburg, South Africa",
   description:
     "One last thing—I'm actively seeking a full-time position and am also available for freelance work. If you have a project or opportunity, feel free to reach out and say hello! I promise I don’t bite 😉.",
@@ -38,7 +38,7 @@ export const DATA = {
     { href: "/", icon: HomeIcon, label: "Home" },
   ],
   contact: {
-    email: "bonolojv@gmail.com",
+    email: "bonolojr@outlook.com",
     tel: "+27 62 234 7438",
     social: {
       GitHub: {
@@ -58,7 +58,7 @@ export const DATA = {
       
       email: {
         name: "Send Email",
-        url: "mailto:bonolojv@gmail.com",
+        url: "mailto:bonolojr@outlook.com",
         icon: Icons.email,
         navbar: true,
       },
