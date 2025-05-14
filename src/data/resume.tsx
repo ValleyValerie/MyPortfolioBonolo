@@ -64,7 +64,7 @@ export const DATA = {
       },
       cv: {
         name: "Download CV",
-        url: "/Frontend CV.pdf", 
+        url: "/frontend CV3.pdf", 
         icon: Icons.CV,  
         navbar: true,
         download: true, 
