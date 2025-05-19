@@ -7,7 +7,7 @@ export const DATA = {
   url: "bonolojr@outlook.com",
   location: "Johannesburg, South Africa",
   description:
-    "One last thing—I'm actively seeking a full-time position and am also available for freelance work. If you have a project or opportunity, feel free to reach out and say hello! I promise I don’t bite 😉.",
+    "I'm actively seeking a full-time position and am also available for freelance work. If you have a project or opportunity, feel free to reach out and say hello! I promise I don’t bite 😉.",
   summary:
     "I’m a frontend and web developer passionate about building responsive, user-friendly websites. With a background in [Business Administration](/#education),  I transitioned into tech and learned [ web development](/#education),  mastering HTML, CSS, JavaScript, and modern frameworks like Vue.js, React, and Next.js. Since 2023, I’ve worked independently, creating fast, accessible websites using [Tailwind CSS, React, next.js and Vue.js](/#skills). I love optimizing performance, integrating APIs, and improving SEO to deliver seamless digital experiences that make an impact.",
   avatarUrl: "/me.jpg",
