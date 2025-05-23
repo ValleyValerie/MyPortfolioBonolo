@@ -125,6 +125,34 @@ export const DATA = {
   ],
   projects: [
     {
+  title: "NovaWrite – AI-Powered Writing Platform",
+  href: "https://ai-writing-platform.netlify.app/", 
+  dates: "April 2025 - May 2025",
+  active: true,
+  description:
+    "NovaWrite is an AI-powered writing platform that enables users to generate blog drafts, paraphrase content, and edit markdown with live preview. Built with Next.js and TypeScript, it provides a seamless writing experience enhanced by Groq's OpenAI-compatible API. The platform is fully responsive and includes user-friendly features like tone control, length settings, and draft management.",
+  technologies: [
+    "Next.js (App Router)",
+    "TypeScript",
+    "TailwindCSS",
+    "Prisma",
+    "SQLite",
+    "Groq SDK",
+    "React",
+    "Vercel"
+  ],
+  links: [
+    {
+      type: "Website",
+      href: "https://ai-writing-platform.netlify.app/", 
+      icon: <Icons.globe className="size-3" />,
+    }
+  ],
+  image: "",
+  video: "/ai-writing-platform.mp4"
+}
+,
+    {
       title: "Updated version of Uniaudi's website",
       href: "https://uniaudi-pearl.vercel.app/",
       dates: "Jan 2025 - Feb 2025",
